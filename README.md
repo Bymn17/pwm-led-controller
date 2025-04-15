@@ -43,7 +43,7 @@ Connect the components as follows:
 
 ## Usage
 
-###Using the Device Driver Interface
+### Using the Device Driver Interface
 Run the device driver client: sudo device_driver
 
 ### Using the Sysfs Interface
