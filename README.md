@@ -42,9 +42,10 @@ Connect the components as follows:
 3.  Install the kernel module and applications: sudo make install
 
 ## Usage
-#Using the Device Driver Interface
+
+###Using the Device Driver Interface
 Run the device driver client: sudo device_driver
 
-# Using the Sysfs Interface
+### Using the Sysfs Interface
 Run the sysfs client: sudo sysfs
 
